@@ -1,0 +1,15 @@
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\задача с собакой\solve\obj\Debug\net7.0\solve.csproj.AssemblyReference.cache
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\задача с собакой\solve\obj\Debug\net7.0\solve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\задача с собакой\solve\obj\Debug\net7.0\solve.AssemblyInfoInputs.cache
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\задача с собакой\solve\obj\Debug\net7.0\solve.AssemblyInfo.cs
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\задача с собакой\solve\obj\Debug\net7.0\solve.csproj.CoreCompileInputs.cache
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\задача с собакой\solve\bin\Debug\net7.0\solve.exe
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\задача с собакой\solve\bin\Debug\net7.0\solve.deps.json
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\задача с собакой\solve\bin\Debug\net7.0\solve.runtimeconfig.json
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\задача с собакой\solve\bin\Debug\net7.0\solve.dll
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\задача с собакой\solve\bin\Debug\net7.0\solve.pdb
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\задача с собакой\solve\obj\Debug\net7.0\solve.dll
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\задача с собакой\solve\obj\Debug\net7.0\refint\solve.dll
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\задача с собакой\solve\obj\Debug\net7.0\solve.pdb
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\задача с собакой\solve\obj\Debug\net7.0\solve.genruntimeconfig.cache
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\задача с собакой\solve\obj\Debug\net7.0\ref\solve.dll
